@@ -154,6 +154,7 @@ section {
   margin: 0 10rem;
   box-sizing: border-box;
   min-height: fit-content;
+  /* overflow: hidden; */
 }
 
 .section-container {
@@ -265,6 +266,7 @@ section {
 
 #about {
   position: relative;
+  height: fit-content;
 }
 
 .about-containers {
